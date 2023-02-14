@@ -18,7 +18,7 @@
 <h4>Executable Files:</h4>
 <ul>
   
-  <li><b>Komal_Classification_Mobile_Price_Range.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
+  <li><b>Komal_Classification_Mobile_Price_Range.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution. </li>
   
 
 <h4>Source Directories:</h4>
